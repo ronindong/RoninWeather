@@ -30,7 +30,12 @@ public final class R {
     public static final class string {
         public static final int action_settings=0x7f050002;
         public static final int app_name=0x7f050000;
+        public static final int city_code_json=0x7f050004;
+        public static final int city_code_json_bj=0x7f050003;
         public static final int hello_world=0x7f050001;
+        /**  [{"province":"北京","city":[{"name":"北京", "code":"101010100"}]}] 
+         */
+        public static final int test_code_json=0x7f050005;
     }
     public static final class style {
         /** 
